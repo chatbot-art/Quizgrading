@@ -1,6 +1,4 @@
-
-
-# Graded Quiz Methodology
+GRADED QUIZ
 
 ## Abstract
 
