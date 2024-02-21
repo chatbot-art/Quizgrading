@@ -1,6 +1,4 @@
-For your GitHub project, you can create a README file that outlines the methodology for creating a graded quiz. Here's a template you can use:
 
----
 
 # Graded Quiz Methodology
 
