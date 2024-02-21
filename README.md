@@ -27,6 +27,4 @@ The graded quiz aims to develop a deep understanding among students and enhance 
 
 Graded quizzes are an effective tool for evaluating students' comprehensive qualities and providing feedback for self-improvement. They engage students in learning, reinforce important skills, and support long-term memory retention.
 
----
 
-Feel free to customize this template to fit your specific project and requirements.
